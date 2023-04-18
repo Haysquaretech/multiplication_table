@@ -1,6 +1,6 @@
 import random
 
-    # Generating two random numbers from 1 to 10
+    # Generating two random numbers from 1 to 12, 12 inclusive
 a = random.randint(1, 12)
 b = random.randint(1, 12)
 
